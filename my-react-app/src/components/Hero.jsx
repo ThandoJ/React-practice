@@ -10,7 +10,6 @@ export default function Hero() {
                 <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
 
                     <button className="px-6 py-3 bg-blue-600 text-white rounded-md hover:bg-blue-700 transition">Get Started</button>
-
                     <button className="px-6 py-3 bg-gray-300 text-gray-800 rounded-md hover:bg-gray-400 transition">Learn More</button>
 
                 </div>
