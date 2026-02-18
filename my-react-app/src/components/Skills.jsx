@@ -22,7 +22,7 @@ function Skills() {
   ]
 
   return (
-    <div className='h-screen flex items-center px-10 md:px-40 pt-32'>
+    <div className='h-screen bg-zinc-50 flex items-center px-10 md:px-40 pt-32'>
       <div className='max-w-6xl w-full'>
 
         {/* HEADING */}
