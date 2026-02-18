@@ -1,5 +1,6 @@
+import React from "react";
 function About() {
-  return (
+  return (<div>
     //About section wrapper
     <section id="about" className="w-full bg-white py-20">
       {/*Centered content container*/}
@@ -31,6 +32,7 @@ function About() {
         </div>
       </div>
     </section>
+    </div>
   );
 }
 export default About;

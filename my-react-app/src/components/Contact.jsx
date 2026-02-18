@@ -3,6 +3,7 @@ import "./Contact.css";
 
 function Contact() {
   return (
+    <div>
     <section className="contact-section">
       <div className="contact-container">
 
@@ -63,7 +64,9 @@ function Contact() {
         </div>
       </div>
     </section>
+    </div>
   );
 }
 
 export default Contact;
+

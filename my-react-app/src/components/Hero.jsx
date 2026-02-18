@@ -1,6 +1,6 @@
 import React from 'react'
  function Hero() {
-    return (
+    return ( <div>
         <section className="bg-gray-100 min-h-screen flex items-center justify-center px-6"> 
             <div className="text-center max-w-2xl">
 
@@ -16,6 +16,7 @@ import React from 'react'
                 </div>
             </div>
         </section>
+        </div>
     );
 }
 
