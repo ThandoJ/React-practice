@@ -10,8 +10,8 @@ import React from 'react'
 
                 <div className="mt-10 flex flex-col sm:flex-row gap-4 justify-center">
 
-                    <button className="px-6 py-3 hover:bg-indigo-400 text-white rounded-md hover:bg-blue-700 transition">View My Projects</button>
-                    <button className="px-6 py-3 hover:bg-gray-300 text-gray-800 rounded-md hover:bg-gray-400 transition">Let us Collaborate</button>
+                    <button className="px-6 py-3 hover:bg-indigo-400 text-white rounded-md bg-indigo-700 transition">View My Projects</button>
+                    <button className="px-6 py-3 hover:bg-gray-300 text-gray-800 rounded-md bg-gray-400 transition">Let us Collaborate</button>
 
                 </div>
             </div>
