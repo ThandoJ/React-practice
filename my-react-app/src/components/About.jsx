@@ -1,7 +1,7 @@
 import React from "react";
 function About() {
   return (<div>
-    //About section wrapper
+    {/*About section wrapper*/}
     <section id="about" className="w-full bg-white py-20">
       {/*Centered content container*/}
       <div className="max-w-4xl mx-auto px-6">

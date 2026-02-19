@@ -22,12 +22,12 @@ function Skills() {
   ]
 
   return ( <div>
-    <div className='h-screen bg-zinc-50 flex items-center px-10 md:px-40 pt-32'>
+    <div className='min-h-screen bg-zinc-50 flex items-center px-6 md:px-40 pt-20'>
       <div className='max-w-6xl w-full'>
 
         {/* HEADING */}
-        <h1 className='text-6xl font-bold mb-16'>Skills & Expertise</h1>
-        <div className='flex flex-wrap md:flex-nowrap justify-between gap-10'>
+        <h1 className='text-3xl md:text-6xl font-bold mb-10 md:mb-16'>Skills & Expertise</h1>
+        <div className='flex flex-wrap md:flex-nowrap justify-between gap-6 md:gap-10'>
 
           {/* MAP OVER EACH SKILL CATEGORY */}
           {skills.map((skill, index) => (
